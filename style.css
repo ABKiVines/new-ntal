@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+* {
+
+	box-sizing: border-box;}
+
+body{
+
+	//font-family: 'Open Sans', sans-serif;
+
+	font-family: 'Arvo';
+
+	background-color:  #263238;
+
+}
+
+.container{
+
+	padding-top: 20px;
+
+	width: 460px;
+
+	//height: 390px;
+
+	height: auto;
+
+	background-color: #212121;
+
+	//background-color: white;
+
+}
+
+.container-fluid{
+
+	border: 1px white;
+
+}
+
+.input-container{
+
+	margin-bottom: 20px;
+
+	display: flex;
+
+}
+
+.input-field{
+
+	background-color: #bdbdbd;
+
+	border: 0px solid;
+
+	margin-left: 1px;
+
+	padding: 10px;
+
+	width: 100%;
+
+}
+
+.input-group-addon{
+
+	color: white;
+
+	background-color: #d32f2f;
+
+	text-align: center ;
+
+	min-width: 50px;
+
+	padding: 10px;
+
+}
+
+.input-container input::placeholder{
+
+	color: black;
+
+	
+
+}
+
+#p1{
+
+	color: #d32f2f;
+
+}
+
+.signupbtn{
+
+    padding-left: 170px;
+
+    padding-bottom: 15px;
+
+    
+
+}
+
+.btn{
+
+    background-color: #d32f2f;
+
+    color: white;
+
+    border: 0px solid;
+
+}
+
+.note{
+
+	background-color: transparent;
+
+	height: auto;
+
+}
